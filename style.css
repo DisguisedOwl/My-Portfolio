@@ -99,6 +99,7 @@ p.smaller {
     text-align: center; /* Centers the text horizontally */
     line-height: 3rem; /* Centers the text vertically */
     text-decoration: none; /* Removes underline from links */
+    z-index: 2;
 }
 
 .light:hover {
