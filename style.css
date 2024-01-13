@@ -83,7 +83,7 @@ p.smaller {
 
 }
 
-.light {
+button.light {
     background-color: #ffffff;
     width: 124px;
     border-radius: 5rem;
@@ -97,7 +97,7 @@ p.smaller {
     cursor: pointer;
 }
 
-.light:hover {
+button.light:hover {
     background-color: #d6b9ff;
     box-shadow: 0px 15px 20px rgba(219, 168, 255, 0.4);
     color: rgb(75, 23, 113);
